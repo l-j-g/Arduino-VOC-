@@ -1,6 +1,6 @@
 # Arduino VOC 
 
-Arduino code used to control VOC sensors, MKS mass flow controllers and save results to local storage for my PhD project.
+Arduino code used to control VOC sensors, MKS mass flow controllers and save results to local storage for an experiment to analysis different sensor responses to differnent short chain fatty acids. 
 
 ## Example Results
 
