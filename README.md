@@ -4,4 +4,7 @@ Arduino code used to control VOC sensors.
 
 ## Example Results
 
-[PCA Analysis](./tightpca.jpg)
+Examples of results processed using Principal Component Analysis in MATLAB
+
+![PCA Analysis](./isomodel.jpg)
+![PCA Analysis](./binary2.png)
